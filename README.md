@@ -2,9 +2,9 @@
 
 Project Developed by:
 
-Nirmal A K
+Pradeepan I 
 
-712221205022, park college of engineering and technology
+712221205025, park college of engineering and technology
 
 ### Note Keeping App
 
@@ -36,10 +36,3 @@ $ python manage.py runserver
 ```
 
 Access the admin panel at ```127.0.0.1/admin``` 
-
-Login credentials:
-
-
-Username: admin
-
-Password: admin
